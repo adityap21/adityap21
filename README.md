@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://undraw.co/api/illustrations/4844b8d4-b196-4706-ae6e-f4c9d76b438f" alt="Analytics illustration" width="400"/>
+</p>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=adityap21&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 </p>
@@ -20,7 +24,7 @@
 
 ## 🏆 Certifications
 ✅ [Tableau Desktop Specialist](https://www.credly.com/badges/20b7dde2-15cc-40a7-a1f2-4de11b75d5e8/linked_in_profile)  
-✅ [Microsoft Excel 2019 Associate]((https://www.credly.com/badges/1cd8f7f4-83e1-4c26-a889-95a6b343ea95/public_url)
+✅ [Microsoft Excel 2019 Associate](https://www.credly.com/badges/1cd8f7f4-83e1-4c26-a889-95a6b343ea95/public_url)
 
 ---
 
