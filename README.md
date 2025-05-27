@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://undraw.co/api/illustrations/4844b8d4-b196-4706-ae6e-f4c9d76b438f" alt="Analytics illustration" width="400"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated coder" width="400"/>
 </p>
 
 <p align="right">
